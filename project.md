@@ -12,7 +12,7 @@ Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, et
 
 ## Data Sources
 Microsoft has provided some data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org. You are not limited to these data sets! If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
-https://drive.google.com/open?id=152upD_aPXdpF8WrdAppOKP_uKlqnNtuMAll 
+https://drive.google.com/file/d/152upD_aPXdpF8WrdAppOKP_uKlqnNtuM/view?usp=sharing
 - More data!
   - if you find data you think is helpful, please feel free to ask for instructor help via Slack.
 
