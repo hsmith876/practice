@@ -6,6 +6,8 @@
 You have just been hired by Health Data Scientist for the role of Data Scientist. As a new member of the team you have been put in a paired with the other new hire and charged with doing data preprocessing and creating a presentation that explores any useful information that can be gained from data preprocessing.  You must then translate those findings into actionable insights that the team can use when presenting to stakeholders  what type of films they should be creating. 
 ou have been put in a team with the other new hire and charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating. 
 
+### Why focus on hospital readmission? 
+
 ## Methodology 
 Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, etc.), movie ratings, budget, social media discussion, and critic or user reviews. Your team gets to define its own questions about the movie industry and then use its knowledge of descriptive statistics and the EDA process to try and answer those questions. 
 
