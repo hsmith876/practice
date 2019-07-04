@@ -3,13 +3,14 @@
 
 ## Congratulations! 
 
-You have just been hired by the Data Science team at Health Data Science for the role of Data Scientist. The team considers data preprocessing a useful skill all data scientist should have. In order to develop data preprocessing skills, new Data Scientist are usually paired and tasked with data preprocessing(cleaning). Along with preprocessing the data, the team requires a presentation showcasing your data visualization skills. In particular, they want visualizations that present findings they can turn into actionable insights for stakeholders. The data set used  
-https://www.hindawi.com/journals/bmri/2014/781670/abs/
+You have just been hired by the Data Science team at Health Data Science for the role of Data Scientist. The team considers data preprocessing a useful skill all data scientist should have. In order to develop data preprocessing skills, new Data Scientist are usually paired and tasked with data preprocessing(cleaning). Along with preprocessing the data, the team requires a presentation showcasing your data visualization skills. In particular, they want visualizations that present findings they can turn into actionable insights for stakeholders. The data set used by the team is the popular diabetes readmission data set.  
 
 ### Why focus on hospital readmission? 
 A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospital readmission rates were formally included in reimbursement decisions for the Centers for Medicare and Medicaid Services (CMS) as part of the Patient Protection and Affordable Care Act (ACA) of 2010, which penalizes health systems with higher than expected readmission rates through the Hospital Readmission Reduction Program. Since the inception of this penalty, there have been other programs that have been introduced, with the aim to decrease hospital readmission. The Community Based Care Transition Program, Independence At Home Demonstration Program, and Bundled Payments for Care Improvement Initiative are all examples of these programs. While many time frames have been used historically, the most common time frame is within 30 days of discharge, and this is what CMS uses[1].
 ## Methodology 
 Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, etc.), movie ratings, budget, social media discussion, and critic or user reviews. Your team gets to define its own questions about the movie industry and then use its knowledge of descriptive statistics and the EDA process to try and answer those questions. 
+https://www.hindawi.com/journals/bmri/2014/781670/abs/
+
 
 ## Data Sources
 The data used for the project was obtained from the UCI repository. If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
@@ -63,26 +64,26 @@ Be prepared to answer questions such as:
  
 ## Specifics:
 ### This project is in groups
-- Group A: Moussa Doumbia + Anthony Schams
-- Group B: Keita Miyaki + Mindy Zhou
-- Group C: Clifford Bridges + Misha Berrien
+- Group A: Gary Wheeler + Patrick Kim
+- Group B: Maia NGO + Christiaan Defaux
+- Group C: Princess Otusanya + Thoa Shook
 
 ### Timeline
 
-6/14 Friday - Project Assignment 
+07/05 Friday - Project Assignment 
  - schedule Monday check in with coach
  
-6/17 Monday - Check in with coaches 
+07/08 Monday - Check in with coach 
  - review data cleaning
  - provide url of project repository
  - review at least one table/chart
  - review work plan created for how teammates will approach and divide work
  
-6/18 Tuesday - Demo presentation with feedback from instructors 
+07/09 Tuesday - Demo presentation with feedback from instructors 
  - have polished draft of deck completed
  - have polished version of jupyter notebook completed
  
-6/19 Wednesday 
+07/10 Wednesday 
  - afternoon project presentation
  - science fair open to staff and fellow students
 
