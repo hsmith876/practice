@@ -7,12 +7,12 @@ You have just been hired by the Data Science team at Health Data Science for the
 https://www.hindawi.com/journals/bmri/2014/781670/abs/
 
 ### Why focus on hospital readmission? 
-A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospital readmission rates were formally included in reimbursement decisions for the Centers for Medicare and Medicaid Services (CMS) as part of the Patient Protection and Affordable Care Act (ACA) of 2010, which penalizes health systems with higher than expected readmission rates through the Hospital Readmission Reduction Program. Since the inception of this penalty, there have been other programs that have been introduced, with the aim to decrease hospital readmission. The Community Based Care Transition Program, Independence At Home Demonstration Program, and Bundled Payments for Care Improvement Initiative are all examples of these programs. While many time frames have been used historically, the most common time frame is within 30 days of discharge, and this is what CMS uses.
+A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospital readmission rates were formally included in reimbursement decisions for the Centers for Medicare and Medicaid Services (CMS) as part of the Patient Protection and Affordable Care Act (ACA) of 2010, which penalizes health systems with higher than expected readmission rates through the Hospital Readmission Reduction Program. Since the inception of this penalty, there have been other programs that have been introduced, with the aim to decrease hospital readmission. The Community Based Care Transition Program, Independence At Home Demonstration Program, and Bundled Payments for Care Improvement Initiative are all examples of these programs. While many time frames have been used historically, the most common time frame is within 30 days of discharge, and this is what CMS uses[1].
 ## Methodology 
 Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, etc.), movie ratings, budget, social media discussion, and critic or user reviews. Your team gets to define its own questions about the movie industry and then use its knowledge of descriptive statistics and the EDA process to try and answer those questions. 
 
 ## Data Sources
-Microsoft has provided some data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org. You are not limited to these data sets! If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
+The data used for the project was obtained from the UCI repository. If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
 https://drive.google.com/file/d/152upD_aPXdpF8WrdAppOKP_uKlqnNtuM/view?usp=sharing
 - More data!
   - if you find data you think is helpful, please feel free to ask for instructor help via Slack.
@@ -96,3 +96,5 @@ What won't happen:
  - You won't be yelled at, belittled, or scolded
  - You won't be put on the spot without support
  - There's nothing you can do to instantly fail or blow it
+### Citation
+[1] Wikipedia contributors. (2019, February 17). Hospital readmission. In Wikipedia, The Free Encyclopedia. Retrieved 22:04, July 4, 2019, from https://en.wikipedia.org/w/index.php?title=Hospital_readmission&oldid=883703655
