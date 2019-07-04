@@ -65,12 +65,6 @@ Be prepared to answer questions such as:
 - Group A: Moussa Doumbia + Anthony Schams
 - Group B: Keita Miyaki + Mindy Zhou
 - Group C: Clifford Bridges + Misha Berrien
-- Group D: Sean Carver + Tim Christy + Joseph McAllister
-- Group E: Ngoc Tran + Dmitry Mikhaylov
-- Group F: Allan Gayahan + Phoebe Wong
-- Group G: TingTing Li + Nateé Johnson
-- Group H: Emefa Agodo + Kate Hayes
-- Group I: Quinn Dizon + Joey Goodman
 
 ### Timeline
 
