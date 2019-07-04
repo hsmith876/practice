@@ -36,7 +36,7 @@ Be prepared to answer questions such as:
    - [ ] Clean dataset & record parameters used to clean the data
      - [ ] You may use Pandas or Python functions
      - [ ] Document every step of the cleaning process
-     - [ ] Create at least two new features that were not present in the original data sets
+     - [ ] Create **at least two** new features that were not present in the original data sets
  - [ ] Use Pandas and Numpy to generate useful metrics for comparing films
 
  - [ ] Posted to git repository:
