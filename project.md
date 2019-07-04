@@ -3,10 +3,11 @@
 
 ## Congratulations! 
 
-You have just been hired by the Data Science team at Health Data Science for the role of Data Scientist. The team considers data preprocessing a useful skill all data scientist should have. In order to develop data preprocessing skills, new Data Scientist are usually paired and tasked with data preprocessing(cleaning). Along with preprocessing the data, the team requires a presentation showcasing your visualization skills. In particular, they want visualizations that present findings they can turn into actionable insights for stakeholders. The data set used  
+You have just been hired by the Data Science team at Health Data Science for the role of Data Scientist. The team considers data preprocessing a useful skill all data scientist should have. In order to develop data preprocessing skills, new Data Scientist are usually paired and tasked with data preprocessing(cleaning). Along with preprocessing the data, the team requires a presentation showcasing your data visualization skills. In particular, they want visualizations that present findings they can turn into actionable insights for stakeholders. The data set used  
+https://www.hindawi.com/journals/bmri/2014/781670/abs/
 
 ### Why focus on hospital readmission? 
-
+A hospital readmission is an episode when a patient who had been discharged from a hospital is admitted again within a specified time interval. Readmission rates have increasingly been used as an outcome measure in health services research and as a quality benchmark for health systems. Hospital readmission rates were formally included in reimbursement decisions for the Centers for Medicare and Medicaid Services (CMS) as part of the Patient Protection and Affordable Care Act (ACA) of 2010, which penalizes health systems with higher than expected readmission rates through the Hospital Readmission Reduction Program. Since the inception of this penalty, there have been other programs that have been introduced, with the aim to decrease hospital readmission. The Community Based Care Transition Program, Independence At Home Demonstration Program, and Bundled Payments for Care Improvement Initiative are all examples of these programs. While many time frames have been used historically, the most common time frame is within 30 days of discharge, and this is what CMS uses.
 ## Methodology 
 Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, etc.), movie ratings, budget, social media discussion, and critic or user reviews. Your team gets to define its own questions about the movie industry and then use its knowledge of descriptive statistics and the EDA process to try and answer those questions. 
 
