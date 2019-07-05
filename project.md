@@ -20,7 +20,7 @@ The data used for the project was obtained from the UCI repository. If you find 
 
 
 ## Deliverables
-Your team must prepare a 5 minute presentation that gives the other team members insights as to what features they should focus on to have an impact on hospital readmission. Your presentation must outline the process you went through and use at least 4 meaningful data visualizations to help illustrate your findings. Your team is expected to use git as a collaborative tool for this project to manage version control and history.  No more than 8 slides.
+Your team must prepare a 5 minute presentation that gives the other team members insights as to what features they should focus on to impact hospital readmission. Your presentation must outline the process you went through and use at least 4 meaningful data visualizations to help illustrate your findings. Your team is expected to use git as a collaborative tool for this project to manage version control and history.  No more than 8 slides.
 
 Be prepared to answer questions such as:
 - "how did you pick the question(s) that you did?"
