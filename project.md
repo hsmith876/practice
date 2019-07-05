@@ -65,7 +65,7 @@ Be prepared to answer questions such as:
 - Group A: Gary Wheeler + Patrick Kim
 - Group B: Maia Ngo + Christiaan Defaux
 - Group C: Princess Otusanya + Thoa Shook
-- groups are to work independently without outside consulting 
+- Groups are to work independently without outside consulting 
 ### Timeline
 
 07/05 Friday - Project Assignment 
