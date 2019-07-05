@@ -12,7 +12,7 @@ Some areas you can look to examine are feature engineering, handlig missing data
 https://www.hindawi.com/journals/bmri/2014/781670/abs/
 
 
-## Data Sources
+## Data Source
 The data used for the project was obtained from the UCI repository. If you find other useful data on the web, you are welcome to include it (but this is not a requirement).  
 https://drive.google.com/file/d/152upD_aPXdpF8WrdAppOKP_uKlqnNtuM/view?usp=sharing
 - More data!
