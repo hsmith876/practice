@@ -55,7 +55,7 @@ Be prepared to answer questions such as:
    - [ ] A pdf of no more than 8 slides used in project presentation targeting non-technical audience
      - [ ] Apply consistent and effective formatting to create a “professional” appearance
      - [ ] Write an abbreviated high-level overview of methodology
-     - [ ] Justify at least 2 concrete recommendations 
+     - [ ] Justify **at least 2** concrete recommendations 
      - [ ] include exported visualizations from analysis
      - [ ] Target the presentation to a non-technical audience, avoid jargon
      - [ ] Take no more than 5 minutes to present
