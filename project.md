@@ -20,7 +20,7 @@ https://drive.google.com/file/d/152upD_aPXdpF8WrdAppOKP_uKlqnNtuM/view?usp=shari
 
 
 ## Deliverables
-Your team must prepare a 5 minute presentation that gives the CEO insights as to what type of films they should be creating to meet consumer demand. Your presentation should outline the process you went through and use at least 4 meaningful data visualizations to help illustrate your findings. Your team is expected to use git as a collaborative tool for this project to manage version control and history.  No more than 8 slides.
+Your team must prepare a 5 minute presentation that gives the team insights as to what features they should be focusing on to have an impact on hospital readmission. Your presentation should outline the process you went through and use at least 4 meaningful data visualizations to help illustrate your findings. Your team is expected to use git as a collaborative tool for this project to manage version control and history.  No more than 8 slides.
 
 Be prepared to answer questions such as:
 - "how did you pick the question(s) that you did?"
@@ -31,13 +31,13 @@ Be prepared to answer questions such as:
 
 ## Project Checklist:
 
- - [ ] Use data from at least two sources
+ - [ ] Use the data given
    - [ ] Establish naming conventions for variables and datasets
    - [ ] Clean dataset & record parameters used to clean the data
      - [ ] You may use Pandas or Python functions
      - [ ] Document every step of the cleaning process
      - [ ] Create **at least two** new features that were not present in the original data sets
- - [ ] Use Pandas and Numpy to generate useful metrics for comparing films
+ - [ ] Use Pandas and Numpy to generate useful metrics for readmission
 
  - [ ] Posted to git repository:
    - [ ] A README.md listing project members, goals, responsibilities, and a summary of the files in the repository
@@ -46,16 +46,15 @@ Be prepared to answer questions such as:
      - [ ] Each project member should commit at least once
    - [ ] A Jupyter notebook targeted to a technical audience that contains
      - [ ] Clean and commented code so an independent party can replicate your analysis and justify your analytical choices
-     - [ ] Code should follow Pep8 standards
      - [ ] Custom functions should be stored in .py file and imported whenever possible
    - [ ] Your final joined and cleaned dataset that was used for analysis
    - [ ] A narrative Jupyter notebook targeted to a non-technical audience that provides:
      - [ ] The purpose of your analysis and why it matters
      - [ ] 4 well annotated visualizations created using Matplotlib/Seaborn
      - [ ] 2 meaningful summary tables
-     - [ ] At least four actionable insights (What type of films should they be looking to produce? What should the budget requirements be? Should they recruit certain actors for their films?)
+     - [ ] At least two actionable insights 
    - [ ] A pdf of no more than 8 slides used in project presentation targeting non-technical audience
-     - [ ] Apply consistent and effective formatting to create a “professional” appearing deck
+     - [ ] Apply consistent and effective formatting to create a “professional” appearance
      - [ ] Write an abbreviated high-level overview of methodology
      - [ ] Justify at least 2 concrete recommendations 
      - [ ] include exported visualizations from analysis
@@ -80,7 +79,7 @@ Be prepared to answer questions such as:
  - review work plan created for how teammates will approach and divide work
  
 07/09 Tuesday - Demo presentation with feedback from instructors 
- - have polished draft of deck completed
+ - have polished draft completed
  - have polished version of jupyter notebook completed
  
 07/10 Wednesday 
