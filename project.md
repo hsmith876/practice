@@ -24,7 +24,7 @@ Your team must prepare a 5 minute presentation that gives the other team members
 
 Be prepared to answer questions such as:
 - "how did you pick the question(s) that you did?"
-- "why are these questions important from a business perspective?"
+- "why are these questions important from a business and/or healthcare perspective?"
 - "how did you decide on the data cleaning options you performed?"
 - "why did you choose a given method or library?"
 - "why did you select those visualizations and what did you learn from each of them?"
